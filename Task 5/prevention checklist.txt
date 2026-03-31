@@ -1,0 +1,12 @@
+✔️ Stay Safe Online – Cyber Safety Checklist
+
+Never share your OTP, PIN, or passwords with anyone.
+Avoid clicking on unknown or suspicious links.
+Always check the URL before entering banking details.
+Use official apps like bank apps or trusted UPI apps only.
+Enable two-factor authentication (2FA) for extra security.
+Do not accept unknown “collect requests” on UPI apps.
+Keep your phone and apps updated regularly.
+Install antivirus/security apps on your device.
+Avoid using public Wi-Fi for financial transactions.
+Immediately block your account if suspicious activity is noticed.
